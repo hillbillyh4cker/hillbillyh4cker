@@ -46,9 +46,9 @@ aboutMe.displayInfo();
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hillbillyh4cker&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=hillbillyh4cker&theme=transparent&hide_border=false" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillbillyh4cker&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <div style="position: relative; display: inline-block;">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=hillbillyh4cker&theme=transparent&hide_border=false" onerror="this.style.display='none';" alt="Streak Stats"/>
+    </div>
 </div>
 
 
