@@ -1,10 +1,19 @@
-<h3 align="">🚀 Vibe Coder |  🧪 Homelabber | 📚 Hobbyist</h1>
+<h3 align="">🏆 Vibe Coder Of The Year 🏆</h1>
+
+### Interests
+
+- 🎮 Games: [Gwent](https://en.wikipedia.org/wiki/Gwent:_The_Witcher_Card_Game)
+- 🛰️ Books: [Hyperspace](https://en.wikipedia.org/wiki/Hyperspace_(book))
+- 📺 Media: [Stargate](https://en.wikipedia.org/wiki/Stargate_SG-1)
+- 🧪 Hobbies: [Homelab](https://www.reddit.com/r/homelab/wiki/introduction/)
+
+
 
 ```ts
 const aboutMe = new Developer(
     'hillbillyh4cker',
-    'Full-Stack, Homelab Operations Management, Linux Systems Administrator',
-    ['code', 'hack', 'repeat'],
+    'hax, trix N more',
+    ['build', 'break', 'repeat'],
     
 );
 aboutMe.displayInfo();
