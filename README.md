@@ -2,7 +2,7 @@
 
 ### Interests
 
-- 🎮 Games: [Gwent](https://en.wikipedia.org/wiki/Gwent:_The_Witcher_Card_Game)
+- 🎮 Games: [Skyrim](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
 - 🛰️ Books: [Hyperspace](https://en.wikipedia.org/wiki/Hyperspace_(book))
 - 📺 Media: [Stargate](https://en.wikipedia.org/wiki/Stargate_SG-1)
 - 🧪 Hobbies: [Homelab](https://www.reddit.com/r/homelab/wiki/introduction/)
