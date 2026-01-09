@@ -11,7 +11,7 @@
 
 ```ts
 const aboutMe = new Developer(
-    'hillbillyh4cker',
+    ' hillbillyh4cker ',
     'hax, trix N more',
     ['build', 'break', 'repeat'],
     
@@ -29,4 +29,3 @@ aboutMe.displayInfo();
 
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillbillyh4cker&theme=github_dark&show_icons=true" />
